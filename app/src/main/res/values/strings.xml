@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Constrain Layout</string>
+    <string name="satu">SATU</string>
+    <string name="dua" tools:ignore="DuplicateDefinition">DUA</string>
+    <string name="tiga">TIGA</string>
+    <string name="empat">EMPAT</string>
+</resources>
